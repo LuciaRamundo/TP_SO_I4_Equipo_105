@@ -1,3 +1,15 @@
 Ramundo Lucia
 Valdez Guadalupe
 Morante Agustina
+
+A- ¿Qué color de fondo tiene su página en el TESTING ?
+Aparece azul
+
+B- ¿Qué color de fondo tiene su página en el DESARROLLO ?
+Aparece amarillo
+
+C- ¿Qué color de fondo tiene su página en el MASTER?
+Aparece azul
+
+D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
+Quedo el de BETA
