@@ -13,3 +13,21 @@ Aparece azul
 
 D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
 Quedo el de BETA
+
+
+E- ¿Algún integrante tuvo problemas al hacer el push?
+Si, BETA y GAMMA
+
+F- ¿Qué problemas surgieron?
+Pedía actualizar el repositorio local previo a realizar los cambios
+
+G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
+adoptada?
+Primero actualizamos el repositorio local, agregamos el cambio e hicimos push
+
+H- ¿Qué sucede si cada uno utiliza el push -f?
+Fuerza el push y borra lo anterior para dejar solo lo que modifico
+
+I- ¿Qué debo hacer para que el index.html tenga todos los <p> de los puntos 18,19 y 20
+en DESARROLLO ?
+Cada integrante debe actualizar su repositorio local
